@@ -1,0 +1,17 @@
+
+ .scrolling-box {
+    background-color: #eaeaea;
+    display: grid;
+    height: 500px;
+    width: 100%;
+    overflow: scroll;
+    scroll-behavior: smooth;
+    text-align: center;
+  }
+  
+  section {
+    display: contents;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+  }
